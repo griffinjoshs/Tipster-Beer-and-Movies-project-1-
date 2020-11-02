@@ -2,7 +2,7 @@
 
 Welcome to Tipster
 
-https://github.com/griffinjoshs/Tipster-Beer-and-Movies-project-1- https://griffinjoshs.github.io/Tipster-Beer-and-Movies-project-1-/
+https://github.com/griffinjoshs/Tipster-Beer-and-Movies-project-1-, https://griffinjoshs.github.io/Tipster-Beer-and-Movies-project-1-/
 
 Here we have a webpage that accesses two local API's to give you a certain beer based off certain aspects of the movie. Start of by typing in one of your favorite movies and see what beer it'll be matched with.
 
